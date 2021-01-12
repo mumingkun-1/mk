@@ -6,8 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     // nishuosha
-    //git
-    //test5
+    //git 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
